@@ -12,7 +12,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
-        <link href="css/business-casual.min" rel="stylesheet" />
+        <link href="css/business-casual.min.css" rel="stylesheet" />
         <!-- <link href="css/styleNesti" rel="stylesheet" /> -->
-
     </head>
