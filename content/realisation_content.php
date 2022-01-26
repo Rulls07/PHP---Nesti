@@ -1,4 +1,5 @@
-<?php include(''); ?>
+<?php include('content/data_realisations.php');?>
+
 <section class="page-section cta">
     <div class="container">
         <div class="row">
@@ -9,7 +10,6 @@
                         <span class="section-heading-lower">VOS RÉALISATIONS</span>
                     </h2>
                     <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
-
                         <?php 
                         sort($etudiants);
                         foreach ($etudiants as $key => $value) : ?>

@@ -14,4 +14,6 @@ $etudiants = array(
     'CDA2021-12' =>  ["nom" => "Young Hee KIM", "url" => "https://kim.needemand.com/"],
     'CDA2021-13' =>  ["nom" => "Kevin SAN MARTINO", "url" => "https://cda.needemand.com/author/cda2020kevin/"],
 );
+
+
 ?>
